@@ -26,6 +26,7 @@ To install Kelp Assignment, follow these steps:
 
 ## Configuration
 Add/Edit environment-specific values in .env file, if using a local PostgreSQL or a custom CSV file
+
 For example:
 - DB_HOST=localhost
 - DB_USER=myuser
