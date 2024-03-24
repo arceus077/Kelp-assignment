@@ -27,11 +27,11 @@ To install Kelp Assignment, follow these steps:
 ## Configuration
 Add/Edit environment-specific values in .env file, if using a local PostgreSQL or a custom CSV file
 For example:
-    DB_HOST=localhost
-    DB_USER=myuser
-    DB_PASS=mypassword
-    DB_NAME=mydatabase
-    CSV_FILE_PATH=./data.csv
+- DB_HOST=localhost
+- DB_USER=myuser
+- DB_PASS=mypassword
+- DB_NAME=mydatabase
+- CSV_FILE_PATH=./data.csv
 
 ## Running the Application
 To run the application in development mode with Nodemon, execute:
