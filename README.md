@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 To install Kelp Assignment, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/kelp_assignment.git
+    git clone https://github.com/arceus077/Kelp-assignment.git
 2. Install the necessary dependencies:
     npm install
 
