@@ -20,9 +20,9 @@ Before you begin, ensure you have met the following requirements:
 To install Kelp Assignment, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/arceus077/Kelp-assignment.git
+- git clone https://github.com/arceus077/Kelp-assignment.git
 2. Install the necessary dependencies:
-    npm install
+- npm install
 
 ## Configuration
 Add/Edit environment-specific values in .env file, if using a local PostgreSQL or a custom CSV file
@@ -35,10 +35,10 @@ For example:
 
 ## Running the Application
 To run the application in development mode with Nodemon, execute:
-    npm run dev
+- npm run dev
 
 To start the application normally, use:
-    npm start
+- npm start
 
 ## API Endpoints
 GET /age-distribution: Fetches age distribution data from a CSV file, stores it in the database, and returns the data. Also, consoles the age distribution data for quick viewing.
