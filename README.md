@@ -36,10 +36,12 @@ For example:
 
 ## Running the Application
 To run the application in development mode with Nodemon, execute:
-- npm run dev
+
+npm run dev
 
 To start the application normally, use:
-- npm start
+
+npm start
 
 ## API Endpoints
 GET /age-distribution: Fetches age distribution data from a CSV file, stores it in the database, and returns the data. Also, consoles the age distribution data for quick viewing.
